@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hippy666
 - 👀 I’m interested in ... old computers
 - 🌱 I’m currently learning ... c# net framework windows forms programming
-- 💞️ I’m looking to collaborate on ... my gui tool for the greasewesal v4 hardware focusing on amiga disks (not quite ready yet).
+- 💞️ I’m looking to collaborate on ... my gui tool for the greasewesal v4 hardware focusing on amiga disks
 - 📫 How to reach me ... darth.malidian@yahoo.co.uk
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
